@@ -165,3 +165,6 @@ cython_debug/
 !project_2/
 project_2/data
 project_2/S1.mat.7z
+
+# Keras related files
+*.keras
